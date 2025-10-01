@@ -30,7 +30,7 @@ Pozwala na start, zatrzymanie oraz reset czasu. Projekt stworzony z myślą o pr
 
 ## 💻 Demo
 
-🔗 **Live Preview (Netlify)**: stopwatch-project-idkowiaak.netlify.app
+🔗 **Live Preview (Netlify)**: [stopwatch-project-idkowiaak.netlify.app](https://stopper.netlify.app/)
 
 ---
 
